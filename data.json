@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "name": "Jane",
+      "surname": "Smith",
+      "age": 21,
+      "salary": 32000
+    },
+    {
+      "id": "3",
+      "name": "Michael",
+      "surname": "Johnson",
+      "age": 22,
+      "salary": 34000
+    },
+    {
+      "id": "4",
+      "name": "Emily",
+      "surname": "Davis",
+      "age": 23,
+      "salary": 36000
+    },
+    {
+      "id": "5",
+      "name": "Chris",
+      "surname": "Brown",
+      "age": 24,
+      "salary": 38000
+    },
+    {
+      "id": "6",
+      "name": "Sarah",
+      "surname": "Wilson",
+      "age": 25,
+      "salary": 40000
+    },
+    {
+      "id": "8",
+      "name": "Laura",
+      "surname": "Taylor",
+      "age": 27,
+      "salary": 44000
+    }
+  ]
+}
