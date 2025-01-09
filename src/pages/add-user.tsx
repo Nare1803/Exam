@@ -4,7 +4,7 @@ import { addNewUser } from "../helpers/api";
 import { useNavigate } from "react-router-dom";
 
 export const AddUser = () => {
-    const {register,formState:{errors},reset,handleSubmit}  =useForm()
+    const {register,formState:{errors},reset,handleSubmit}  =useForm<InputUser>()
     const navigate = useNavigate()
     const onsubmit = (data: InputUser
     ) => {
